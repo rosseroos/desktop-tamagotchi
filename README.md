@@ -16,4 +16,4 @@ License=WTFPL
   
 ## Assets
 Big shout out to **aconfuseddragon** who made the icons and shares them [on their website](https://aconfuseddragon.itch.io/) for free! Be sure to check out their stuff!  
-Made a firefox-fish a while ago and put it there as the pet, you can replace this another image if you prefer a dog or beaver idk go wild >:)
+Made a firefox-fish a while ago and put it there as the pet, you can replace this with another image if you prefer a dog or beaver idk go wild >:)
